@@ -77,7 +77,7 @@ ROW_NUMBER() over (
 )
 
 
---9. Are customers who are repeat buyers (more than 5 previous purchases) also likely to subscribe?
+--9. Customers who are repeat buyers (more than 5 previous purchases) also likely to subscribe.
 
 SELECT subscription_status,
        COUNT(customer_id) AS repeat_buyers
@@ -87,7 +87,7 @@ GROUP BY subscription_status;
 
 
 
---10. The revenue contribution of each age group? 
+--10. The revenue contribution of each age group.
 
 SELECT 
     age_group,
@@ -95,4 +95,5 @@ SELECT
 FROM customer
 GROUP BY age_group
 ORDER BY total_revenue desc;
+
 
