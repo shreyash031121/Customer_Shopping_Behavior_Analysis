@@ -43,7 +43,7 @@ The Power BI dashboard highlights:
 ## 📊 Dashboard Preview
 Interactive Power BI dashboard connected to a SQL database, showcasing customer behavior, revenue trends, and segmentation insights.
 
-![Customer Behavior Dashboard](Screenshots/customer_behavior_dashboard.png)
+![Customer Behavior Dashboard][(Screenshots/customer_behavior_dashboard.png)](https://github.com/shreyash031121/Customer_Shopping_Behavior_Analysis/blob/main/Customer_Behvaior_Analysis_Dashboard.png)
 
 
 ---
