@@ -30,6 +30,8 @@ This project demonstrates an end-to-end data analytics workflow. The objective i
 6. Connected Power BI directly to the SQL database
 7. Built an interactive dashboard with KPIs and insights
 8. Created a detailed report and presentation using Gamma
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/1bf49c21-4683-4ecc-a016-2f27e6541e8e" />
+
 
 ---
 
