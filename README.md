@@ -40,6 +40,11 @@ The Power BI dashboard highlights:
 - Average review rating
 - Customer behavior trends and insights
 
+## 📊 Dashboard Preview
+Interactive Power BI dashboard connected to a SQL database, showcasing customer behavior, revenue trends, and segmentation insights.
+
+![Customer Behavior Dashboard](powerbi/dashboard_screenshots/customer_behavior_dashboard.png)
+
 ---
 
 ## 📌 Results & Insights
