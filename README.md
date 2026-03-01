@@ -9,7 +9,7 @@ This project demonstrates an end-to-end data analytics workflow. The objective i
 - Customer-level dataset containing purchase behavior and review-related information
 - Raw data loaded and explored using Python
 - Cleaned and transformed data stored in a SQL database for analysis
-
+  
 ---
 
 ## 🛠️ Tools & Technologies
